@@ -1,0 +1,38 @@
+@import '~antd/dist/antd.css';
+@import "/node_modules/react-grid-layout/css/styles.css";
+@import "/node_modules/react-resizable/css/styles.css";
+
+.items {
+  font-weight: 700;
+}
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+}
+.avatar {
+  float: right;
+  margin: 16px 24px 16px 0;
+}
+
+.layout{
+  margin: 50px 100px 10px 0px;
+  min-height: 679px;
+}
+
+.grid{
+  margin-left: 200px;
+}
+
+.card{
+  box-shadow: 0px 2px 4px rgba(141, 149, 166, 0.1);
+  border-radius: 4px;
+  background-color: aliceblue;
+}
+
+.button{
+  float:right;
+  margin-top:100px;
+}
+
